@@ -27,7 +27,7 @@ public class Main {
 	 * @param n2
 	 * @return
 	 */
-	int sumaArgsInt(int n1,int n2) {
+	static int sumaArgsInt(int n1,int n2) {
 		int suma;
 		
 		
@@ -43,7 +43,7 @@ public class Main {
 	 * @param n2
 	 * @return
 	 */
-	double sumaArgsDouble(double n1,double n2) {
+	static double sumaArgsDouble(double n1,double n2) {
 		double suma;
 		
 		
@@ -64,7 +64,7 @@ public class Main {
 	 * @param n2
 	 * @return
 	 */
-	double mediaArgsDouble(int n1,int n2) {
+	static double mediaArgsDouble(int n1,int n2) {
 		double media;
 		
 		
@@ -80,7 +80,7 @@ public class Main {
 	 * @param n2
 	 * @return
 	 */
-	double mediaArgsDouble(int n1,int n2,int n3) {
+	static double mediaArgsDouble(int n1,int n2,int n3) {
 		double media;
 		
 		
@@ -90,8 +90,6 @@ public class Main {
 	
 	
 	//ej3
-	
-	int 
 	
 	
 	
